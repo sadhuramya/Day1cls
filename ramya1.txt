@@ -1,1 +1,2 @@
 This is  first file for git.
+noted the contents. ok .
