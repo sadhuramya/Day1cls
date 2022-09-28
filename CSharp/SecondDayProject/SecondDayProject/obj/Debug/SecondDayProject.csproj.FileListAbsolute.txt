@@ -1,0 +1,7 @@
+C:\sramya\day1cls\CSharp\SecondDayProject\SecondDayProject\bin\Debug\SecondDayProject.exe.config
+C:\sramya\day1cls\CSharp\SecondDayProject\SecondDayProject\bin\Debug\SecondDayProject.exe
+C:\sramya\day1cls\CSharp\SecondDayProject\SecondDayProject\bin\Debug\SecondDayProject.pdb
+C:\sramya\day1cls\CSharp\SecondDayProject\SecondDayProject\obj\Debug\SecondDayProject.csproj.AssemblyReference.cache
+C:\sramya\day1cls\CSharp\SecondDayProject\SecondDayProject\obj\Debug\SecondDayProject.csproj.CoreCompileInputs.cache
+C:\sramya\day1cls\CSharp\SecondDayProject\SecondDayProject\obj\Debug\SecondDayProject.exe
+C:\sramya\day1cls\CSharp\SecondDayProject\SecondDayProject\obj\Debug\SecondDayProject.pdb
