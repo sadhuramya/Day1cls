@@ -1,0 +1,6 @@
+C:\sramya\day1cls\CSharp\Assignmenr4\Assignmenr4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\sramya\day1cls\CSharp\Assignmenr4\Assignmenr4\obj\Debug\Assignmenr4.exe
+C:\sramya\day1cls\CSharp\Assignmenr4\Assignmenr4\obj\Debug\Assignmenr4.pdb
+C:\sramya\day1cls\CSharp\Assignmenr4\Assignmenr4\bin\Debug\Assignmenr4.exe.config
+C:\sramya\day1cls\CSharp\Assignmenr4\Assignmenr4\bin\Debug\Assignmenr4.exe
+C:\sramya\day1cls\CSharp\Assignmenr4\Assignmenr4\bin\Debug\Assignmenr4.pdb
