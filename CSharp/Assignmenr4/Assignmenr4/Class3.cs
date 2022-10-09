@@ -16,7 +16,7 @@ namespace Assignment4
         {
           
         }
-        public Customer(int  cstid, string name, int age, string cty, long phn) // Parameterized Constructor
+        public Customer(int  cstid, string name, int age, string cty, long phn) 
         {
             this.Customerid = cstid;
             this.Name = name;
