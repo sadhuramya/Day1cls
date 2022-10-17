@@ -1,0 +1,7 @@
+C:\sramya\day1cls\CSharp\CodeEaxm\CodeEaxm\obj\Debug\CodeEaxm.csproj.AssemblyReference.cache
+C:\sramya\day1cls\CSharp\CodeEaxm\CodeEaxm\obj\Debug\CodeEaxm.csproj.CoreCompileInputs.cache
+C:\sramya\day1cls\CSharp\CodeEaxm\CodeEaxm\bin\Debug\CodeEaxm.exe.config
+C:\sramya\day1cls\CSharp\CodeEaxm\CodeEaxm\bin\Debug\CodeEaxm.exe
+C:\sramya\day1cls\CSharp\CodeEaxm\CodeEaxm\bin\Debug\CodeEaxm.pdb
+C:\sramya\day1cls\CSharp\CodeEaxm\CodeEaxm\obj\Debug\CodeEaxm.exe
+C:\sramya\day1cls\CSharp\CodeEaxm\CodeEaxm\obj\Debug\CodeEaxm.pdb
